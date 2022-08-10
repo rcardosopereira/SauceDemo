@@ -1,6 +1,6 @@
 # SauceDemo
 https://www.saucedemo.com/
-Java, Selenium, Cucumber
+
 
 
 # Quality Assurance engineer challenge
