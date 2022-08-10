@@ -5,7 +5,8 @@ Java, Selenium, Cucumber
 # Quality Assurance engineer challenge
 This a personal challenge using java, selenium and cucumber framework.
 
-This challenge consists of two parts: 
+This challenge consists of two parts (Google Chrome and ChromeDriver)
+
 Google Chrome
 Version 104.0.5112.81 (Official Build) (64-bit)
 
